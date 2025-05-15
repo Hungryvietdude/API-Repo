@@ -43,3 +43,4 @@ C:\Tiedostot\APIdemot\API-Repo\TodoAPI\obj\Debug\net9.0\refint\TodoAPI.dll
 C:\Tiedostot\APIdemot\API-Repo\TodoAPI\obj\Debug\net9.0\TodoAPI.pdb
 C:\Tiedostot\APIdemot\API-Repo\TodoAPI\obj\Debug\net9.0\TodoAPI.genruntimeconfig.cache
 C:\Tiedostot\APIdemot\API-Repo\TodoAPI\obj\Debug\net9.0\ref\TodoAPI.dll
+C:\Tiedostot\APIdemot\API-Repo\TodoAPI\obj\Debug\net9.0\TodoAPI.sourcelink.json
