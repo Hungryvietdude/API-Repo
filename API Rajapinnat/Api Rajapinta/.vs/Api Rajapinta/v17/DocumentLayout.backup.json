@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tiedostot\\APIdemot\\API-Repo\\API Rajapinnat\\Api Rajapinta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7AF832-9412-490C-BF4D-F87E89703DC8}|Api Rajapinta.csproj|c:\\tiedostot\\apidemot\\api-repo\\api rajapinnat\\api rajapinta\\test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2D7AF832-9412-490C-BF4D-F87E89703DC8}|Api Rajapinta.csproj|solutionrelative:test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7AF832-9412-490C-BF4D-F87E89703DC8}|Api Rajapinta.csproj|c:\\tiedostot\\apidemot\\api-repo\\api rajapinnat\\api rajapinta\\controllers\\questscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7AF832-9412-490C-BF4D-F87E89703DC8}|Api Rajapinta.csproj|solutionrelative:controllers\\questscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7AF832-9412-490C-BF4D-F87E89703DC8}|Api Rajapinta.csproj|c:\\tiedostot\\apidemot\\api-repo\\api rajapinnat\\api rajapinta\\models\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7AF832-9412-490C-BF4D-F87E89703DC8}|Api Rajapinta.csproj|solutionrelative:models\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7AF832-9412-490C-BF4D-F87E89703DC8}|Api Rajapinta.csproj|c:\\tiedostot\\apidemot\\api-repo\\api rajapinnat\\api rajapinta\\api rajapinta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D7AF832-9412-490C-BF4D-F87E89703DC8}|Api Rajapinta.csproj|solutionrelative:api rajapinta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7AF832-9412-490C-BF4D-F87E89703DC8}|Api Rajapinta.csproj|c:\\tiedostot\\apidemot\\api-repo\\api rajapinnat\\api rajapinta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7AF832-9412-490C-BF4D-F87E89703DC8}|Api Rajapinta.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.http",
+              "DocumentMoniker": "C:\\Tiedostot\\APIdemot\\API-Repo\\API Rajapinnat\\Api Rajapinta\\Test.http",
+              "RelativeDocumentMoniker": "Test.http",
+              "ToolTip": "C:\\Tiedostot\\APIdemot\\API-Repo\\API Rajapinnat\\Api Rajapinta\\Test.http",
+              "RelativeToolTip": "Test.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-15T09:35:43.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestsController.cs",
+              "DocumentMoniker": "C:\\Tiedostot\\APIdemot\\API-Repo\\API Rajapinnat\\Api Rajapinta\\Controllers\\QuestsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuestsController.cs",
+              "ToolTip": "C:\\Tiedostot\\APIdemot\\API-Repo\\API Rajapinnat\\Api Rajapinta\\Controllers\\QuestsController.cs",
+              "RelativeToolTip": "Controllers\\QuestsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:29:36.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quest.cs",
+              "DocumentMoniker": "C:\\Tiedostot\\APIdemot\\API-Repo\\API Rajapinnat\\Api Rajapinta\\Models\\Quest.cs",
+              "RelativeDocumentMoniker": "Models\\Quest.cs",
+              "ToolTip": "C:\\Tiedostot\\APIdemot\\API-Repo\\API Rajapinnat\\Api Rajapinta\\Models\\Quest.cs",
+              "RelativeToolTip": "Models\\Quest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:28:26.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Api Rajapinta",
+              "DocumentMoniker": "C:\\Tiedostot\\APIdemot\\API-Repo\\API Rajapinnat\\Api Rajapinta\\Api Rajapinta.csproj",
+              "RelativeDocumentMoniker": "Api Rajapinta.csproj",
+              "ToolTip": "C:\\Tiedostot\\APIdemot\\API-Repo\\API Rajapinnat\\Api Rajapinta\\Api Rajapinta.csproj",
+              "RelativeToolTip": "Api Rajapinta.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T09:28:09.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tiedostot\\APIdemot\\API-Repo\\API Rajapinnat\\Api Rajapinta\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Tiedostot\\APIdemot\\API-Repo\\API Rajapinnat\\Api Rajapinta\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:24:54.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

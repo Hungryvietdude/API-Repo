@@ -1,0 +1,46 @@
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\appsettings.Development.json
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\appsettings.json
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\Api Rajapinta.staticwebassets.endpoints.json
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\Api Rajapinta.exe
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\Api Rajapinta.deps.json
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\Api Rajapinta.runtimeconfig.json
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\Api Rajapinta.dll
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\Api Rajapinta.pdb
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\Api Rajapinta.csproj.AssemblyReference.cache
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\Api Rajapinta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\Api Rajapinta.AssemblyInfoInputs.cache
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\Api Rajapinta.AssemblyInfo.cs
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\Api Rajapinta.csproj.CoreCompileInputs.cache
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\Api Rajapinta.MvcApplicationPartsAssemblyInfo.cache
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\Api Rajapinta.sourcelink.json
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\scopedcss\bundle\Api Rajapinta.styles.css
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\staticwebassets.build.json
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\staticwebassets.development.json
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\staticwebassets\msbuild.Api Rajapinta.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\staticwebassets\msbuild.Api Rajapinta.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\staticwebassets\msbuild.build.Api Rajapinta.props
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Api Rajapinta.props
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Api Rajapinta.props
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\Api Raja.02237957.Up2Date
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\Api Rajapinta.dll
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\refint\Api Rajapinta.dll
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\Api Rajapinta.pdb
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\Api Rajapinta.genruntimeconfig.cache
+C:\Tiedostot\APIdemot\API-Repo\API Rajapinnat\Api Rajapinta\obj\Debug\net9.0\ref\Api Rajapinta.dll

@@ -1,0 +1,15 @@
+### Hae kaikki tehtävät
+GET https://localhost:7139/quests
+
+### Hae yksittäinen tehtävä (esim. id 1)
+GET https://localhost:7139/quests/1
+
+### Luo uusi tehtävä
+POST https://localhost:7139/quests
+Content-Type: application/json
+
+{
+  "name": "Pelasta kylä",
+  "description": "Kylä on hyökkäyksen kohteena. Autatko?",
+  "reward": 200
+}
